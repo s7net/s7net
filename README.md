@@ -41,7 +41,7 @@ I am a software and DevOps engineer focused on designing highly available infras
   <img src="https://img.shields.io/badge/Hetzner-D50C2D?style=flat-square&logo=hetzner&logoColor=white" alt="Hetzner" />
   <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
   <img src="https://img.shields.io/badge/Infomaniak-0098FF?style=flat-square&logo=cloud&logoColor=white" alt="Infomaniak" />
-  <img src="https://img.shields.io/badge/ArvanCloud-FF5A00?style=flat-square&logo=cloudflare&logoColor=white" alt="ArvanCloud" />
+  <img src="https://img.shields.io/badge/CloudFlare-FF5A00?style=flat-square&logo=cloudflare&logoColor=white" alt="CloudFlare" />
   <img src="https://img.shields.io/badge/Asiatech-EE2E24?style=flat-square&logo=server&logoColor=white" alt="Asiatech" />
 </p>
 
