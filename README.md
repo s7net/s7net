@@ -22,7 +22,7 @@
 I am a software and DevOps engineer focused on designing highly available infrastructure, cloud automation, secure networking, and resilient server environments.
 
 - 🐧 **Systems & OS:** Linux power user (Debian, Ubuntu, CentOS, AlmaLinux, Alpine), deep server administration, and low-overhead pure Bash scripting.
-- ☁️ **Cloud & Bare-Metal:** Managing scalable cloud and dedicated server fleets across **Hetzner**, **Microsoft Azure**, **DigitalOcean**, **Infomaniak**, **ArvanCloud**, and **Asiatech**.
+- ☁️ **Cloud & Bare-Metal:** Managing scalable cloud and dedicated server fleets across **Hetzner**, **Microsoft Azure**, **DigitalOcean**, **Infomaniak**, **CloudFlare**, and **Asiatech**.
 - 📦 **IaC & Containerization:** Building declarative, repeatable infrastructure using **Docker**, **Kubernetes (K8s)**, **Terraform**, and **Ansible**.
 - 🔄 **CI/CD Pipelines:** Automated build, test, and zero-downtime deployment pipelines using **GitHub Actions** and **GitLab CI**.
 - 📈 **Monitoring & Observability:** Real-time metrics and logging using **Prometheus**, **Grafana**, **Netdata**, **ELK Stack (Elasticsearch, Logstash, Kibana)**, **Datadog**, and **New Relic**.
