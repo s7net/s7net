@@ -19,12 +19,6 @@ I'm a software developer interested in building reliable applications, managing 
   <img src="https://skillicons.dev/icons?i=python,php,laravel,go,rust,linux,docker,mysql,postgres,nginx,git,github,cloudflare" />
 </p>
 
-## 📌 Featured Projects
-
-- **GlyNet** — Networking and infrastructure tools.
-- **SubForwarder** — Subscription management and automation.
-- **GlyNet Firewall** — Firewall and server security tools.
-
 ## 📊 GitHub Stats
 
 <p align="center">
