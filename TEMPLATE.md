@@ -19,12 +19,6 @@ I'm a software developer interested in building reliable applications, managing 
   <img src="https://skillicons.dev/icons?i=python,php,laravel,go,rust,linux,docker,mysql,postgres,nginx,git,github,cloudflare" />
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s7net&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
 ## 📫 Connect With Me
 
 - 💬 Telegram: [@s7net](https://t.me/s7net)
