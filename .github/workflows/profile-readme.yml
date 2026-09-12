@@ -1,3 +1,4 @@
+
 name: Profile Readme
 
 on:
@@ -9,9 +10,23 @@ permissions:
   contents: write
 
 jobs:
-  update-readme:
+  publish:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Profile Readme
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+
+      - name: Update Profile Readme
         uses: actions-js/profile-readme@v1
+        with:
+          username: amirhossein
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and Push
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
