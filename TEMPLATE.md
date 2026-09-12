@@ -28,12 +28,13 @@ I'm a software developer interested in building reliable applications, managing 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=s7net&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ## 📫 Connect With Me
 
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- 💬 Telegram: [@s7net](https://t.me/s7net)
+- 🐙 GitHub: [@s7net](https://github.com/s7net)
 
 ---
 
