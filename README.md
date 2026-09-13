@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Hi, I'm ~/𝙰𝚖𝚒𝚛𝙷𝚘𝚜𝚜𝚎𝚒𝚗 👋
+# ⚡ Hi, I'm Amirhossein 👋
 
 ### 🚀 Software Developer · DevOps Engineer · Linux & Networking Specialist
 
